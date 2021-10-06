@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1633489408137" clover="3.2.0">
-  <project timestamp="1633489408137" name="All files">
+<coverage generated="1633489622161" clover="3.2.0">
+  <project timestamp="1633489622161" name="All files">
     <metrics statements="7" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3" elements="13" coveredelements="7" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
-    <file name="mafs.js" path="/Users/adrianviquez/Documents/Coding/Adrian-Codecov/test-repo/mafs.js">
+    <file name="mafs.js" path="/Users/adrianviquez/Documents/Coding/Adrian-Codecov/another-test/mafs.js">
       <metrics statements="7" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
       <line num="2" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
