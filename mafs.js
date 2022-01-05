@@ -18,4 +18,8 @@ function divide(a, b) {
     }
 }
 
-module.exports = {add, subtract, multiply, divide};
+function toFixed(number) {
+    return number.toFixed(2)
+}
+
+module.exports = {add, subtract, multiply, divide, toFixed};
