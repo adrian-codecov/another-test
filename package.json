@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "testOne": "jest ./flag1 --coverage",
-    "testTwo": "jest ./flag2 --coverage"
+    "testOne": "jest ./flag1",
+    "testTwo": "jest ./flag2"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
     "jest": "^27.0.6"
   },
   "jest": {
-    "collectCoverage": true
+    "collectCoverage": true,
+    "coverageDirectory": "./coverage/"
   }
 }
