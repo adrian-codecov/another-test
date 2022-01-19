@@ -1,4 +1,5 @@
 TN:
+<<<<<<< HEAD
 SF:mafs.js
 FN:1,add
 FN:5,subtract
@@ -21,6 +22,25 @@ LF:7
 LH:6
 BRDA:14,0,0,0
 BRDA:14,0,1,1
+=======
+SF:flag2/words.js
+FN:1,returnPlus3
+FN:5,reverse
+FN:9,hello
+FNF:3
+FNH:3
+FNDA:1,returnPlus3
+FNDA:1,reverse
+FNDA:1,hello
+DA:2,1
+DA:6,1
+DA:10,1
+DA:13,1
+LF:4
+LH:4
+BRDA:10,0,0,1
+BRDA:10,0,1,0
+>>>>>>> 11083646376d6334e1246728ce6936e598a39b46
 BRF:2
 BRH:1
 end_of_record
