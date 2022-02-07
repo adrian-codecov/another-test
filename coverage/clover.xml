@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644277488645" clover="3.2.0">
-  <project timestamp="1644277488646" name="All files">
-    <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="7" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+<coverage generated="1644277533029" clover="3.2.0">
+  <project timestamp="1644277533029" name="All files">
+    <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2" elements="13" coveredelements="5" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
-      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
       <line num="2" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
       <line num="10" count="0" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
+      <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
