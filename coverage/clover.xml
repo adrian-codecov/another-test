@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648077007821" clover="3.2.0">
-  <project timestamp="1648077007821" name="All files">
+<coverage generated="1648077353717" clover="3.2.0">
+  <project timestamp="1648077353717" name="All files">
     <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4" elements="13" coveredelements="11" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
       <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
