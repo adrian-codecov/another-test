@@ -16,6 +16,6 @@ function divide(a, b) {
     } else {
         return 0
     }
-}
+} 
 
 module.exports = {add, subtract, multiply, divide};
