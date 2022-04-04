@@ -2,7 +2,7 @@ flags:
   testOneNew:
     paths: #note, accepts globs, not regexes
       - flag1/mafs.js
-    carryforward: true
+    carryforward: false
   testTwoNew:
     paths:
       - flag2/mafs.js
