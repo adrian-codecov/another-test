@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo hello",
     "testOne": "jest ./flag1",
     "testTwo": "jest ./flag2"
   },
