@@ -10,4 +10,17 @@ function hello(a) {
     return a === 5 ? "hello!" : "nope"
 }
 
-module.exports = {returnPlus3, reverse};
+function aloha() {
+    return 4
+}
+
+function whoa(a) {
+    if (a == 3) {
+        return "hi"
+    }
+    else {
+        return "ho"
+    }
+}
+
+module.exports = {returnPlus3, reverse, aloha, whoa};
