@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo hello",
     "testOne": "jest ./flag1",
-    "testTwo": "jest ./flag2"
+    "testTwo": "jest ./flag2",
+    "testAll": "jest --watchAll --testPathPattern=src/**/*.test.js"
   },
   "repository": {
     "type": "git",
