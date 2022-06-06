@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654558171552" clover="3.2.0">
-  <project timestamp="1654558171552" name="All files">
-    <metrics statements="23" coveredstatements="18" conditionals="8" coveredconditionals="2" methods="16" coveredmethods="11" elements="47" coveredelements="31" complexity="0" loc="23" ncloc="23" packages="4" files="5" classes="5"/>
-    <package name="flag1">
+<coverage generated="1654558322510" clover="3.2.0">
+  <project timestamp="1654558322510" name="All files">
+    <metrics statements="27" coveredstatements="21" conditionals="10" coveredconditionals="2" methods="19" coveredmethods="13" elements="56" coveredelements="36" complexity="0" loc="27" ncloc="27" packages="5" files="6" classes="6"/>
+    <package name="another-test">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
+        <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="another-test.flag1">
       <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
         <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
@@ -12,7 +22,7 @@
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="flag2">
+    <package name="another-test.flag2">
       <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag2/words.js">
         <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
@@ -22,7 +32,7 @@
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="folder">
+    <package name="another-test.folder">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/words.js">
         <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
@@ -32,7 +42,7 @@
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="folder.subfolder">
+    <package name="another-test.folder.subfolder">
       <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="7" coveredmethods="6"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/subfolder/mafs.js">
         <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
