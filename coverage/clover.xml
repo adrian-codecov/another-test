@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654558322510" clover="3.2.0">
-  <project timestamp="1654558322510" name="All files">
+<coverage generated="1655848337367" clover="3.2.0">
+  <project timestamp="1655848337367" name="All files">
     <metrics statements="27" coveredstatements="21" conditionals="10" coveredconditionals="2" methods="19" coveredmethods="13" elements="56" coveredelements="36" complexity="0" loc="27" ncloc="27" packages="5" files="6" classes="6"/>
-    <package name="another-test">
+    <package name="another-test-Rula">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
-      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
+      <file name="words.js" path="/Users/rula/Desktop/another-test-Rula/words.js">
         <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
@@ -12,9 +12,9 @@
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="another-test.flag1">
+    <package name="another-test-Rula.flag1">
       <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
-      <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
+      <file name="mafs.js" path="/Users/rula/Desktop/another-test-Rula/flag1/mafs.js">
         <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
@@ -22,9 +22,9 @@
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="another-test.flag2">
+    <package name="another-test-Rula.flag2">
       <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
-      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag2/words.js">
+      <file name="words.js" path="/Users/rula/Desktop/another-test-Rula/flag2/words.js">
         <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
         <line num="2" count="0" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
@@ -32,9 +32,9 @@
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="another-test.folder">
+    <package name="another-test-Rula.folder">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
-      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/words.js">
+      <file name="words.js" path="/Users/rula/Desktop/another-test-Rula/folder/words.js">
         <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
@@ -42,9 +42,9 @@
         <line num="13" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="another-test.folder.subfolder">
+    <package name="another-test-Rula.folder.subfolder">
       <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="7" coveredmethods="6"/>
-      <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/subfolder/mafs.js">
+      <file name="mafs.js" path="/Users/rula/Desktop/another-test-Rula/folder/subfolder/mafs.js">
         <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
@@ -54,7 +54,7 @@
         <line num="17" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
       </file>
-      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/subfolder/words.js">
+      <file name="words.js" path="/Users/rula/Desktop/another-test-Rula/folder/subfolder/words.js">
         <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
