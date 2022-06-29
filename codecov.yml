@@ -1,5 +1,5 @@
 flags:
   ui:
     paths: #note, accepts globs, not regexes
-      - flag1/mafs.js
+      - flag1
     carryforward: true
