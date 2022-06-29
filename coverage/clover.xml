@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1656464377318" clover="3.2.0">
-  <project timestamp="1656464377318" name="All files">
-    <metrics statements="30" coveredstatements="21" conditionals="12" coveredconditionals="2" methods="20" coveredmethods="13" elements="62" coveredelements="36" complexity="0" loc="30" ncloc="30" packages="5" files="6" classes="6"/>
+<coverage generated="1656464532452" clover="3.2.0">
+  <project timestamp="1656464532452" name="All files">
+    <metrics statements="30" coveredstatements="22" conditionals="12" coveredconditionals="2" methods="20" coveredmethods="14" elements="62" coveredelements="38" complexity="0" loc="30" ncloc="30" packages="5" files="6" classes="6"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -13,12 +13,12 @@
       </file>
     </package>
     <package name="another-test.flag1">
-      <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
-        <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <metrics statements="7" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
