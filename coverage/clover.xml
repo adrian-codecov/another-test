@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1656463923979" clover="3.2.0">
-  <project timestamp="1656463923979" name="All files">
-    <metrics statements="27" coveredstatements="21" conditionals="10" coveredconditionals="2" methods="19" coveredmethods="13" elements="56" coveredelements="36" complexity="0" loc="27" ncloc="27" packages="5" files="6" classes="6"/>
+<coverage generated="1656464300822" clover="3.2.0">
+  <project timestamp="1656464300822" name="All files">
+    <metrics statements="30" coveredstatements="25" conditionals="12" coveredconditionals="4" methods="20" coveredmethods="15" elements="62" coveredelements="44" complexity="0" loc="30" ncloc="30" packages="5" files="6" classes="6"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -13,12 +13,15 @@
       </file>
     </package>
     <package name="another-test.flag1">
-      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
-        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
