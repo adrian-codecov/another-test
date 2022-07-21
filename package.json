@@ -25,5 +25,8 @@
   "jest": {
     "collectCoverage": true,
     "coverageDirectory": "./coverage/"
+  },
+  "volta": {
+    "node": "16.16.0"
   }
 }
