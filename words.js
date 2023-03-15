@@ -7,7 +7,7 @@ function reverse(array) {
 }
 
 function hello(a) {
-  return a === 5 ? "hello!" : "nopee";
+  return a === 5 ? "hello!" : "nopeee";
 }
 
 module.exports = { returnPlus3, reverse };
