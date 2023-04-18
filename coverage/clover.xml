@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1678930240513" clover="3.2.0">
-  <project timestamp="1678930240514" name="All files">
-    <metrics statements="27" coveredstatements="22" conditionals="10" coveredconditionals="4" methods="19" coveredmethods="14" elements="56" coveredelements="40" complexity="0" loc="27" ncloc="27" packages="5" files="6" classes="6"/>
+<coverage generated="1681857555416" clover="3.2.0">
+  <project timestamp="1681857555416" name="All files">
+    <metrics statements="35" coveredstatements="28" conditionals="12" coveredconditionals="4" methods="25" coveredmethods="18" elements="72" coveredelements="50" complexity="0" loc="35" ncloc="35" packages="7" files="8" classes="8"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -55,6 +55,26 @@
         <line num="21" count="1" type="stmt"/>
       </file>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/folder/subfolder/words.js">
+        <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="another-test.mafs">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/mafs/mafs.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="another-test.words">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words/words.js">
         <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
