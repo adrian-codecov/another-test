@@ -14,3 +14,5 @@ component_management:
       name: mafs # this is a display name, and can be changed freely
       paths:
         - mafs/**
+      flag_regexes: # List. Flags to be included in the component.
+        - "test-flag-*"
