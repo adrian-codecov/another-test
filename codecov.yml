@@ -12,8 +12,6 @@ component_management:
       name: words # this is a display name, and can be changed freely
       paths:
         - words/**
-      flag_regexes:
-        - "test-flag-123"
     - component_id: module_mafs
       name: mafs # this is a display name, and can be changed freely
       paths:
