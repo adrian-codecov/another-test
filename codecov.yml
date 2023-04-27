@@ -6,7 +6,7 @@ component_management:
         branches:
           - "!main"
     flag_regexes: # List. Flags to be included in the component.
-      - "words.*"
+      - "test-flag-456"
   individual_components:
     - component_id: module_words
       name: words # this is a display name, and can be changed freely
