@@ -2,8 +2,12 @@ function returnTemple(a) {
   return "wow";
 }
 
-function sayGoodbye(a) {
+function sayGoodbye() {
   return "goodbye";
 }
 
-module.exports = { returnTemple, sayGoodbye };
+function andTrue() {
+  return true;
+}
+
+module.exports = { returnTemple, sayGoodbye, andTrue };

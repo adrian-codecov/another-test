@@ -1,9 +1,13 @@
-const { returnTemple, sayGoodbye } = require("./temples");
+const { returnTemple, sayGoodbye, andTrue } = require("./temples");
 
 test("returns the given array reversed", function () {
   expect(returnTemple()).toEqual("wow");
 });
 
-// test("returns + 3 of whatever you give it", function(){
-//     expect(returnPlus3(4)).toBe(7)
-// })
+test("returns goodbye", function () {
+  expect(sayGoodbye()).toBe("goodbye");
+});
+
+test("returns true", function () {
+  expect(andTrue()).toBe(true);
+});
