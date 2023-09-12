@@ -7,6 +7,7 @@
     "test": "echo hello",
     "testOne": "jest ./flag1",
     "testTwo": "jest ./flag2",
+    "testWords": "jest ./words",
     "testTemples": "jest ./temples",
     "testAll": "jest --watchAll"
   },
