@@ -9,7 +9,11 @@
     "testTwo": "jest ./flag2",
     "testWords": "jest ./words",
     "testTemples": "jest ./temples",
-    "testAll": "jest --watchAll"
+    "testAll": "jest --watchAll",
+    "testAllOsFiles": "jest ./os_files",
+    "testWindowsOsFile": "jest ./os_files -t 'returns Windows'",
+    "testIosOsFile": "jest ./os_files -t 'returns Ios'",
+    "testLinuxOsFile": "jest ./os_files -t 'returns Linux'"
   },
   "repository": {
     "type": "git",
