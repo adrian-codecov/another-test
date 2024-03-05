@@ -18,4 +18,4 @@ function multiply(a, b) {
 //   }
 // }
 
-module.exports = { add };
+module.exports = { add, multiply };
