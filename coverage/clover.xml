@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710375265438" clover="3.2.0">
-  <project timestamp="1710375265438" name="All files">
-    <metrics statements="37" coveredstatements="31" conditionals="12" coveredconditionals="4" methods="26" coveredmethods="20" elements="75" coveredelements="55" complexity="0" loc="37" ncloc="37" packages="8" files="9" classes="9"/>
+<coverage generated="1710954762353" clover="3.2.0">
+  <project timestamp="1710954762354" name="All files">
+    <metrics statements="40" coveredstatements="31" conditionals="14" coveredconditionals="4" methods="27" coveredmethods="20" elements="81" coveredelements="55" complexity="0" loc="40" ncloc="40" packages="8" files="9" classes="9"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -62,12 +62,15 @@
       </file>
     </package>
     <package name="another-test.mafs">
-      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/mafs/mafs.js">
-        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="0" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
