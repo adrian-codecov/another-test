@@ -18,4 +18,12 @@ function divide(a, b) {
   }
 }
 
-module.exports = { add, multiply };
+function divide_two(a, b) {
+  if (b !== 0) {
+    return a / b;
+  } else {
+    return 0;
+  }
+}
+
+module.exports = { add, multiply, divide_two };
