@@ -34,4 +34,4 @@ function divide_three(a, b) {
   }
 }
 
-module.exports = { add, multiply, divide_two };
+module.exports = { add, multiply, divide_two, divide_three };

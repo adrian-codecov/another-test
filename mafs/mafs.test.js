@@ -19,3 +19,11 @@ test("divides_two 6 / 0 to equal 0", () => {
 test("divides_two 8 / 2 to equal 3", () => {
   expect(divide_two(8, 2)).toBe(4);
 });
+
+test("divides_three 6 / 0 to equal 0", () => {
+  expect(divides_three(6, 0)).toBe(0);
+});
+
+test("divides_three 8 / 2 to equal 3", () => {
+  expect(divides_three(8, 2)).toBe(4);
+});
