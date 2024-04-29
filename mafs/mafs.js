@@ -26,4 +26,12 @@ function divide_two(a, b) {
   }
 }
 
+function divide_three(a, b) {
+  if (b !== 0) {
+    return a / b;
+  } else {
+    return 0;
+  }
+}
+
 module.exports = { add, multiply, divide_two };
