@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1714436941083" clover="3.2.0">
-  <project timestamp="1714436941083" name="All files">
-    <metrics statements="50" coveredstatements="34" conditionals="20" coveredconditionals="6" methods="31" coveredmethods="21" elements="101" coveredelements="61" complexity="0" loc="50" ncloc="50" packages="8" files="9" classes="9"/>
+<coverage generated="1716574983985" clover="3.2.0">
+  <project timestamp="1716574983985" name="All files">
+    <metrics statements="44" coveredstatements="36" conditionals="16" coveredconditionals="6" methods="29" coveredmethods="23" elements="89" coveredelements="65" complexity="0" loc="44" ncloc="44" packages="8" files="9" classes="9"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -13,15 +13,15 @@
       </file>
     </package>
     <package name="another-test.flag1">
-      <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.js">
-        <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
@@ -66,22 +66,16 @@
       </file>
     </package>
     <package name="another-test.mafs">
-      <metrics statements="13" coveredstatements="6" conditionals="6" coveredconditionals="2" methods="6" coveredmethods="3"/>
+      <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
       <file name="mafs.js" path="/Users/adrian/Documents/Coding/Extra/another-test/mafs/mafs.js">
-        <metrics statements="13" coveredstatements="6" conditionals="6" coveredconditionals="2" methods="6" coveredmethods="3"/>
+        <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="0" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
-        <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
-        <line num="23" count="1" type="stmt"/>
-        <line num="25" count="1" type="stmt"/>
-        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="31" count="0" type="stmt"/>
-        <line num="33" count="0" type="stmt"/>
-        <line num="37" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
       </file>
     </package>
     <package name="another-test.temples">
