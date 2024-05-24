@@ -1,5 +1,5 @@
-comment: # this is a top-level key
-  require_bundle_changes: True
+# comment: # this is a top-level key
+#   require_bundle_changes: True
 component_management:
   default_rules: # default rules that will be inherited by all components
     statuses:
