@@ -18,3 +18,16 @@ component_management:
       name: mafs # this is a display name, and can be changed freely
       paths:
         - mafs/**
+flags:
+  flag1:
+    paths: #note, accepts globs, not regexes
+      - flag1
+    carryforward: true
+  flag2:
+    paths:
+      - flag2
+    carryforward: true
+  frontend:
+    paths:
+      - frontend
+    carryforward: false
