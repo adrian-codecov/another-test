@@ -12,7 +12,7 @@ test("adds 1 + 2 to equal 3", () => {
 // //     expect(multiply(5, 6)).toBe(30);
 // // });
 
-// // test('divides 6 / 0 to equal 0', () => {
+// // test('ddivides 6 / 0 to equal 0', () => {
 // //     expect(divide(6, 0)).toBe(0);
 // // });
 
