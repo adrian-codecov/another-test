@@ -8,7 +8,7 @@ test("returns + 3 of whatever you give it", function () {
   expect(returnPlus3(4)).toBe(7);
 });
 
-test("hello if 5", function () {
+test("hello iff 5", function () {
   expect(hello(5)).toBe("hello!");
 });
 
