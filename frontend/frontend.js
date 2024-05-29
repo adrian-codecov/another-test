@@ -10,7 +10,7 @@ function hello(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
-function lemurrrrr(a) {
+function lemurrrrrrrr(a) {
   return a === 3 ? "hele" : "ufa";
 }
 
