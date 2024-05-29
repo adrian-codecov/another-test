@@ -6,7 +6,7 @@ function reverse(array) {
   return array.reverse();
 }
 
-function hellooaoaaaaa(a) {
+function hellooaoaaaaaa(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
