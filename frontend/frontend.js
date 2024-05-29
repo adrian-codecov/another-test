@@ -1,4 +1,4 @@
-function returnPlaaus3(a) {
+function returnPlus3(a) {
   return a + 3;
 }
 
@@ -6,7 +6,7 @@ function reverse(array) {
   return array.reverse();
 }
 
-function hellooao(a) {
+function hellooaoaa(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
