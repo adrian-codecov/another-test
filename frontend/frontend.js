@@ -1,4 +1,4 @@
-function returnPlus3(a) {
+function returnPlaus3(a) {
   return a + 3;
 }
 
