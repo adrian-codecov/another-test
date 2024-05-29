@@ -6,7 +6,7 @@ function reverse(array) {
   return array.reverse();
 }
 
-function hello(a) {
+function helloo(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
@@ -14,4 +14,4 @@ function lemurarr(a) {
   return a === 3 ? "hele" : "ufa";
 }
 
-module.exports = { returnPlus3, reverse, hello };
+module.exports = { returnPlus3, reverse };
