@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1717020029856" clover="3.2.0">
-  <project timestamp="1717020029856" name="All files">
+<coverage generated="1717020198289" clover="3.2.0">
+  <project timestamp="1717020198289" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="3" elements="13" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="frontend.js" path="/Users/adrian/Documents/Coding/Extra/another-test/frontend/frontend.js">
       <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="3"/>
