@@ -9,7 +9,7 @@ test("adds 1 + 2 to equal 3", () => {
 // });
 
 // test("multiplies 5 * 6 to equal 30", () => {
-//   expect(multiply(5, 6)).toBe(30);
+//   expect(multiply(5, 6)).toBe(30); asdf
 // });
 
 // test("divides 6 / 0 to equal 0", () => {
