@@ -1,4 +1,4 @@
-const { returnPlus3, reverse, hello } = require("./frontend");
+const { returnPlus3, reverse } = require("./frontend");
 
 test("returns the given array reversed", function () {
   expect(reverse([1, 2, 3])).toEqual([3, 2, 1]);
