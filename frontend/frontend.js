@@ -10,8 +10,8 @@ function helloaaa(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
-function lemurarsrasdfagaasaadasadasasdfdafsaafafssrr(a) {
+function lemur(a) {
   return a === 3 ? "hele" : "ufa";
 }
 
-module.exports = { returnPlus3, reverse };
+module.exports = { returnPlus3, reverse, lemur };

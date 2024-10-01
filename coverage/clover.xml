@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1727820185387" clover="3.2.0">
-  <project timestamp="1727820185387" name="All files">
-    <metrics statements="46" coveredstatements="33" conditionals="18" coveredconditionals="4" methods="32" coveredmethods="21" elements="96" coveredelements="58" complexity="0" loc="46" ncloc="46" packages="9" files="10" classes="10"/>
+<coverage generated="1727820556325" clover="3.2.0">
+  <project timestamp="1727820556325" name="All files">
+    <metrics statements="46" coveredstatements="34" conditionals="18" coveredconditionals="6" methods="32" coveredmethods="22" elements="96" coveredelements="62" complexity="0" loc="46" ncloc="46" packages="9" files="10" classes="10"/>
     <package name="another-test">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="words.js" path="/Users/adrian/Documents/Coding/Extra/another-test/words.js">
@@ -66,13 +66,13 @@
       </file>
     </package>
     <package name="another-test.frontend">
-      <metrics statements="5" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3"/>
       <file name="frontend.js" path="/Users/adrian/Documents/Coding/Extra/another-test/frontend/frontend.js">
-        <metrics statements="5" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3"/>
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
         <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
       </file>
     </package>
