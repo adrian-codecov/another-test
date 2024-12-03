@@ -1,4 +1,4 @@
-const { returnPlus3, reverse, hello } = require("./words");
+const { returnPlus3, reverse, hello, bye } = require("./words");
 
 test("returns the given array reversed", function () {
   expect(reverse([1, 2, 3])).toEqual([3, 2, 1]);
@@ -14,4 +14,8 @@ test("hello if 5", function () {
 
 test("nope if 6", function () {
   expect(hello(6)).toBe("nope");
+});
+
+test("bye", function () {
+  expect(bye()).toBe("bye");
 });
