@@ -10,4 +10,8 @@ function hello(a) {
   return a === 5 ? "hello!" : "nope";
 }
 
-module.exports = { returnPlus3, reverse, hello };
+function abc() {
+  return "abc"
+}
+
+module.exports = { returnPlus3, reverse, hello, abc };
