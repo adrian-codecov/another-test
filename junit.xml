@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="27" failures="7" errors="0" time="1.387">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-12-16T17:39:17" time="0.697" tests="5">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.003">
+    </testcase>
+    <testcase classname=" subtracts 4 - 1 to equal 3" name=" subtracts 4 - 1 to equal 3" time="0.001">
+    </testcase>
+    <testcase classname=" multiplies 5 * 6 to equal 30" name=" multiplies 5 * 6 to equal 30" time="0">
+    </testcase>
+    <testcase classname=" divides 6 / 0 to equal 0" name=" divides 6 / 0 to equal 0" time="0.001">
+    </testcase>
+    <testcase classname=" divides 8 / 2 to equal 3" name=" divides 8 / 2 to equal 3" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-12-16T17:39:17" time="0.776" tests="4">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.003">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0">
+    </testcase>
+    <testcase classname=" hello if 5" name=" hello if 5" time="0.009">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: &quot;helldo!&quot;
+Received: &quot;hello!&quot;
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/flag3/words.test.js:12:20)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+    <testcase classname=" nope if 6" name=" nope if 6" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-12-16T17:39:17" time="0.781" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.002">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.004">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 73
+Received: 7
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/folder/words.test.js:8:26)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-12-16T17:39:17" time="0.796" tests="1">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.006">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 33
+Received: 3
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/mafs/mafs.test.js:4:21)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-12-16T17:39:17" time="0.796" tests="1">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.007">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 33
+Received: 3
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/flag1/mafs.test.js:4:21)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-12-16T17:39:17" time="0.788" tests="4">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.003">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.001">
+    </testcase>
+    <testcase classname=" hello if 5" name=" hello if 5" time="0.005">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: &quot;hellso!&quot;
+Received: &quot;hello!&quot;
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/flag2/words.test.js:12:20)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+    <testcase classname=" nope if 6" name=" nope if 6" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="2" skipped="0" timestamp="2024-12-16T17:39:17" time="0.793" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.01">
+      <failure>Error: expect(received).toEqual(expected) // deep equality
+
+- Expected  - 1
++ Received  + 1
+
+  Array [
+    3,
+-   23,
++   2,
+    1,
+  ]
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/words/words.test.js:4:32)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.002">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 73
+Received: 7
+    at Object.&lt;anonymous&gt; (/Users/adrian/Documents/Coding/Extra/another-test/words/words.test.js:8:28)
+    at Promise.then.completed (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:390:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/utils.js:315:10)
+    at _callCircusTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/adrian/Documents/Coding/Extra/another-test/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:166:21)</failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-12-16T17:39:17" time="0.144" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.002">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-12-16T17:39:17" time="0.129" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.003">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-12-16T17:39:17" time="0.127" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.002">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-12-16T17:39:17" time="0.123" tests="2">
+    <testcase classname=" returns the given array reversed" name=" returns the given array reversed" time="0.003">
+    </testcase>
+    <testcase classname=" returns + 3 of whatever you give it" name=" returns + 3 of whatever you give it" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>

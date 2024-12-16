@@ -28,5 +28,8 @@
   "jest": {
     "collectCoverage": true,
     "coverageDirectory": "./coverage/"
+  },
+  "devDependencies": {
+    "jest-junit": "^16.0.0"
   }
 }

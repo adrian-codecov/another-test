@@ -9,7 +9,7 @@ test("returns + 3 of whatever you give it", function () {
 });
 
 test("hello if 5", function () {
-  expect(hello(5)).toBe("hello!");
+  expect(hello(5)).toBe("helldo!");
 });
 
 test("nope if 6", function () {
